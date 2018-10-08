@@ -2259,8 +2259,24 @@ body {
 .cid-r5Oa2MTVG1 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-r5STXIua5b {
+  background-image: url("../../../assets/images/femme-fumee-full-2000x1250.jpg");
+}
+.cid-r5STXIua5b .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-r5STXIua5b H1 {
+  color: #232323;
+}
+.cid-r5STXIua5b .mbr-text,
+.cid-r5STXIua5b .mbr-section-btn {
+  color: #232323;
+}
+.cid-r5STXIua5b H3 {
+  color: #232323;
+}
 .cid-r5OaChU7sl {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
