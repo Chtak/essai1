@@ -1692,6 +1692,21 @@ body {
 .cid-r5O92kRyLr {
   background-image: url("../../../assets/images/landscape-watering-water-1920x1280.jpg");
 }
+.cid-r5YTHXxRoL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #82786e, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-r5YTHXxRoL .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r5YTHXxRoL .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-r5O7vdStd1 {
   padding-top: 105px;
   padding-bottom: 0px;
